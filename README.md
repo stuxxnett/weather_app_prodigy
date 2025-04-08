@@ -1,1 +1,1 @@
-# weather_app_prodigy
+# weather_app
